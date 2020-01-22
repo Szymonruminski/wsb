@@ -1,0 +1,9 @@
+C:\Users\wypra\Desktop\kalkulatornauka\kalkulatornauka\bin\Debug\kalkulatornauka.exe.config
+C:\Users\wypra\Desktop\kalkulatornauka\kalkulatornauka\bin\Debug\kalkulatornauka.exe
+C:\Users\wypra\Desktop\kalkulatornauka\kalkulatornauka\bin\Debug\kalkulatornauka.pdb
+C:\Users\wypra\Desktop\kalkulatornauka\kalkulatornauka\obj\Debug\kalkulatornauka.csprojAssemblyReference.cache
+C:\Users\wypra\Desktop\kalkulatornauka\kalkulatornauka\obj\Debug\kalkulatornauka.Form1.resources
+C:\Users\wypra\Desktop\kalkulatornauka\kalkulatornauka\obj\Debug\kalkulatornauka.Properties.Resources.resources
+C:\Users\wypra\Desktop\kalkulatornauka\kalkulatornauka\obj\Debug\kalkulatornauka.csproj.GenerateResource.cache
+C:\Users\wypra\Desktop\kalkulatornauka\kalkulatornauka\obj\Debug\kalkulatornauka.exe
+C:\Users\wypra\Desktop\kalkulatornauka\kalkulatornauka\obj\Debug\kalkulatornauka.pdb
